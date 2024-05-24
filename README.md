@@ -3,7 +3,11 @@
 Source codes for network training associated with paper titled "Vessel-Targeted Compensation of Deformable Motion in Interventional Cone-Beam CT." 
 
 ### Dependencies
-This code was built with Pytorch 1.13.0, scikit-image 0.19.2, scipy 1.9.3, numpy 1.22.3, nibabel 4.0.2. 
+This code was built with `Pytorch` 1.13.0, `scikit-image` 0.19.2, `scipy` 1.9.3, `numpy` 1.22.3, `nibabel` 4.0.2.
+
+Additionally, please see: 
+[centerline DICE implementation](https://github.com/jocpae/clDice)
+
 
 ### Network training and running code
 
